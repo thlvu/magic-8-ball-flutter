@@ -9,6 +9,12 @@
 .buildlog/
 .history
 .svn/
+.gradle/*
+gradle/*
+gradlew*
+build.gradle
+local.properties
+
 
 # IntelliJ related
 *.iml
