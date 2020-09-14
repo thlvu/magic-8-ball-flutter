@@ -14,6 +14,7 @@ gradle/*
 gradlew*
 build.gradle
 local.properties
+ios
 
 
 # IntelliJ related
